@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "third-arcadia-209213",
+  "private_key_id": "576922e8a609667dddbc41719b0e022be778b202",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwf2RHn78I2ai3\nF1g9r3ZskXBTPdSgpbfZNUXREKDQTTgEXyZTnNvsPhkbloAaFfcZdKGfuOzfdluC\nbV8E7VpYxePN9nqjvoSmOAMHeW/mukG6a8rPrGROXVEciq+7Z6RXWx5OrqkQbg2Q\npJyFhqM+o9NafoErqi1uWor54/pubF033JX+mdX8R/Ood8xRlnMVyk0UeZCqYLnX\nSeW3n6b8knONr3LPgLpF469YEpXKmZA0CH6IPWvNvVdMQEo1sNCrIYMTnA0aJORj\narszYfvVbDAsDt8VZxZiBKXImb+i23qfxItp+RP6w8y8zuKnIsEb1Jw1PtzFXerT\nwdMsWj1zAgMBAAECggEAEYV0BRA8vLou3443ulfy37BIgFsBArmw2KVLOwf1jvg7\neWOgwGgwBPHdODnmmbBYiXRknyCSk1SCnR4ScsDFWU674LR5VEwTixTAaDuL+lG/\nOKx+w8MPaiAlbzntXCNb0zg+d/0q13C1dAiDaVYGWq+UycUJObZ5MB1Y8pnJQLDj\nEvTFXdrMtdppGjxZZAQzJaRWULOBuCIfj6ylsTZEqokkdup5sATFe/w9SPHTyYcc\n1jTvx6R4WoI4rTbvWI6IpzYpgi0UO4Mtte00S3ZczWVKDogs2VzKY3AHtB1onjaX\n1RYhuCsThTLRdQ41/+teFItDz6A4S/BHk236ViDDIQKBgQDXdU+PgUp/vWLllrs3\njAyx3WxuZpD+evb2tSI15QUxHc9KS1qBwSOXIRS4d7homkF2zlE3OUNqUWV0EOVN\nVoSjGW8zZxvXux1F69WYa9bw81P22m4CJJrfoM1e8P/UsZfEAtqLV/WKwcHSslPG\nzviA9hs+qHUDBYLzSmxi0Ll/2wKBgQDRtVYA9MPJHfSZal7eQoY/D+/ai9cBUacA\nDXMaYiXCGHRYtfqS/ocaJIEpgqjYJKlg4W+WI8MniU49cLocImJaMzqBtihJzx3r\ntCSXTYmdlUh8iGReppnbnXig8a9LXFKp9JVepuBe86mnQdFRlssHGIdhDmaJ3bzE\nPNu0WPzYSQKBgAjklakVrA6DsZ5KT2XmiOuaeQxBfYCTcLgUF9pjnog9c73cSFsM\nrrxhKCrI/jqLC2Ks91sxKOAtheN5gw1jIcxdk2JqwhJwba/iIQnOgaumT3Pj5iB+\nhEnwqClgBx8vSVVUzNJtifv1LVvV8nFFP6qK/erjJxk90/7YtoqJlO57AoGBAKJB\nLrjwqKdscPterOZFDH+wggFTX1ia556HyX4pYFOL/kFBFA41tyyIABOxD5ikzRSz\neFXvd6iYeRvao3TvOa/WoTcJTKTHBrx/FiynBooRnhMUqKv/NV4Rueq09M9XMHJl\nVkj0zvdIigRqTV1WUeI8nUqADOAw20PuXoNssr1ZAoGAE++Oi0GSyPioQ59CD+or\nevrbzyZM31cJRJND28wkRBf9hswVTSc1bALPsUz1fQDY6+mLiCzec9IYAVatHtIT\n94AMguy1gqatTonyBjb+NCdfREQXqzHsk1bNPxv0kij6ZBS/60Rss55kREUotxv/\nMixJ1nGImD3gqRjkEdNzars=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-translator@third-arcadia-209213.iam.gserviceaccount.com",
+  "client_id": "106367823126974347632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-translator%40third-arcadia-209213.iam.gserviceaccount.com"
+}
