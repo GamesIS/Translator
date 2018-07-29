@@ -5,16 +5,12 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>jsp</mask>
-      <mask>j</mask>
       <mask>js</mask>
       <mask>*.xml.</mask>
       <mask>./</mask>
       <mask>.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.jsp</mask>
       <mask>*.scri</mask>
       <mask>*.script</mask>
@@ -28,14 +24,19 @@
       <mask>*.sql</mask>
       <mask>i*.sql</mask>
       <mask>is*.sql</mask>
-      <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.x,;</mask>
+      <mask>*.x,</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
