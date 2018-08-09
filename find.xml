@@ -5,8 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.script</mask>
       <mask>*.scrip</mask>
       <mask>*.scr</mask>
       <mask>*.sc</mask>
@@ -24,18 +24,19 @@
       <mask>*,.</mask>
       <mask>*,</mask>
       <mask>*</mask>
-      <mask>*.xm;</mask>
-      <mask>*.jav</mask>
       <mask>*.xnkl</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm;l</mask>
+      <mask>*.xm;</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
