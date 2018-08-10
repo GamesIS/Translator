@@ -14,4 +14,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\ilku0917\Documents\MyFolder\Projects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop/Patch" />
+  </component>
 </application>
