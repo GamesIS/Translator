@@ -10,6 +10,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping pattern="merge_mail_for_jobs" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
