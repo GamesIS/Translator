@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>os*.sql</mask>
       <mask>o*.sql</mask>
@@ -25,17 +26,17 @@
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.javau</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.офмф</mask>
       <mask>*.оф</mask>
       <mask>*.о</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
