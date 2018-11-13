@@ -27,13 +27,13 @@
       <mask>*.оф</mask>
       <mask>*.о</mask>
       <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
