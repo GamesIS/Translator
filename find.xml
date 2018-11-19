@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="rep*" />
     <recentFileMasks>
-      <mask>i*.sql</mask>
-      <mask>is*.sql</mask>
-      <mask>*.k</mask>
       <mask>*.x,;</mask>
       <mask>*.x,</mask>
       <mask>*,.</mask>
@@ -19,7 +16,6 @@
       <mask>*.xn</mask>
       <mask>*.xm;l</mask>
       <mask>*.xm;</mask>
-      <mask>*</mask>
       <mask>*.javau</mask>
       <mask>*.js</mask>
       <mask>*.офмф</mask>
@@ -34,9 +30,13 @@
       <mask>*.xm=</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>re</mask>
+      <mask>rep</mask>
+      <mask>rep*</mask>
     </recentFileMasks>
   </component>
 </application>
