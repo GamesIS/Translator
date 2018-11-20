@@ -6,9 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.x,;</mask>
-      <mask>*.x,</mask>
-      <mask>*,.</mask>
       <mask>*,</mask>
       <mask>*.xnkl</mask>
       <mask>*.xnk</mask>
@@ -36,6 +33,9 @@
       <mask>re</mask>
       <mask>rep</mask>
       <mask>rep*</mask>
+      <mask>sql</mask>
+      <mask>sq</mask>
+      <mask>s</mask>
     </recentFileMasks>
   </component>
 </application>
