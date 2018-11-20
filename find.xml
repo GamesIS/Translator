@@ -2,18 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pkg*.sql" />
     <recentFileMasks>
-      <mask>*,</mask>
-      <mask>*.xnkl</mask>
-      <mask>*.xnk</mask>
-      <mask>*.xn</mask>
-      <mask>*.xm;l</mask>
-      <mask>*.xm;</mask>
-      <mask>*.javau</mask>
-      <mask>*.js</mask>
       <mask>*.офмф</mask>
       <mask>*.оф</mask>
       <mask>*.о</mask>
@@ -27,7 +18,6 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.</mask>
       <mask>*</mask>
       <mask>re</mask>
@@ -35,7 +25,16 @@
       <mask>rep*</mask>
       <mask>sql</mask>
       <mask>sq</mask>
+      <mask>ss</mask>
       <mask>s</mask>
+      <mask>.*</mask>
+      <mask>.</mask>
+      <mask>.sq</mask>
+      <mask>.sql</mask>
+      <mask>*.sql</mask>
+      <mask>p*.sql</mask>
+      <mask>pk*.sql</mask>
+      <mask>pkg*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
