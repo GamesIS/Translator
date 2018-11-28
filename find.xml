@@ -3,22 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.офмф</mask>
       <mask>*.оф</mask>
       <mask>*.о</mask>
       <mask>*.s</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm=</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.sq</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>re</mask>
       <mask>rep</mask>
       <mask>rep*</mask>
@@ -27,13 +23,18 @@
       <mask>ss</mask>
       <mask>s</mask>
       <mask>.*</mask>
-      <mask>.</mask>
       <mask>.sq</mask>
       <mask>.sql</mask>
       <mask>*.sql</mask>
       <mask>p*.sql</mask>
       <mask>pk*.sql</mask>
       <mask>pkg*.sql</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
