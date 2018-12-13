@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping pattern="merge_mail_for_jobs" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="check_self_assessor" type="SQL" />
     </extensionMap>
   </component>
 </application>
