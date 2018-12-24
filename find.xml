@@ -3,15 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlsx" />
     <recentFileMasks>
-      <mask>*.офмф</mask>
-      <mask>*.оф</mask>
-      <mask>*.о</mask>
-      <mask>*.jav</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm=</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>re</mask>
       <mask>rep</mask>
       <mask>rep*</mask>
@@ -27,13 +21,20 @@
       <mask>pkg*.sql</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlxs</mask>
+      <mask>*.xlx</mask>
+      <mask>*.xls</mask>
+      <mask>*.xlsx</mask>
     </recentFileMasks>
   </component>
 </application>
